@@ -106,6 +106,6 @@ The findings highlight the importance of using appropriate statistical methods b
 
 ## Author
 
-Name:Winnie Jepleting 
-Field: Applied Statistics with Computing
-Area of Interest: Data Analytics, Statistical Modelling and Business Intelligence
+### Name:Winnie Jepleting 
+### Field: Applied Statistics with Computing
+### Area of Interest: Data Analytics, Statistical Modelling and Business Intelligence
