@@ -1,5 +1,5 @@
 # Customer_Purchase_Behavior_Analysis
-Statistical analysis of customer purchasing behavior across multiple sales channels using Python, Mixed-effects Models and GEe 
+Statistical analysis of customer purchasing behavior across multiple sales channels using Python, Mixed-effects Models and GEE 
 # Customer Purchase Behavior Analysis
 
 ## Project Overview
@@ -74,6 +74,14 @@ The analysis found no statistically significant evidence of differences in order
 The preferred mixed-effects model and GEE analysis both supported this conclusion. The overall GEE channel test returned a p-value of 0.185.
 
 This does not establish that the channels are equivalent; it means the analysis did not detect a statistically significant difference.
+
+## Project Visualisations
+
+### Distribution of Average Order Value
+![Distribution of Average Order Value](images/1795327747233.jpg)
+
+### GEE Model Results
+![GEE Model Results](images/1795328799099.jpg)
 
 ## Business Recommendations
 
